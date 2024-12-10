@@ -1,1 +1,1 @@
-A heart disease classification model,using 3 model and comparing between their performance
+This project focuses on developing and comparing machine learning models to classify the presence of heart disease based on patient data. Three different models—Logistic Regression, Support Vector Machine, and Random Forest Classifier—were trained and evaluated to determine their performance and identify the best-performing model for this task
